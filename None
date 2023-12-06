@@ -1,0 +1,16 @@
+Collecting scikit-surprise
+  Downloading scikit-surprise-1.1.3.tar.gz (771 kB)
+     ---------------------------------------- 0.0/772.0 kB ? eta -:--:--      --------------------------------------- 10.2/772.0 kB ? eta -:--:--      --------------------------------------- 10.2/772.0 kB ? eta -:--:--     - ----------------------------------- 30.7/772.0 kB 217.9 kB/s eta 0:00:04     - ----------------------------------- 41.0/772.0 kB 195.7 kB/s eta 0:00:04     ---- -------------------------------- 92.2/772.0 kB 374.1 kB/s eta 0:00:02     ------ ----------------------------- 143.4/772.0 kB 532.5 kB/s eta 0:00:02     -------- --------------------------- 174.1/772.0 kB 551.6 kB/s eta 0:00:02     ---------- ------------------------- 225.3/772.0 kB 597.3 kB/s eta 0:00:01     ------------ ----------------------- 276.5/772.0 kB 654.2 kB/s eta 0:00:01     -------------- --------------------- 317.4/772.0 kB 678.1 kB/s eta 0:00:01     ----------------- ------------------ 368.6/772.0 kB 739.0 kB/s eta 0:00:01     ------------------- ---------------- 409.6/772.0 kB 730.1 kB/s eta 0:00:01     --------------------- -------------- 460.8/772.0 kB 779.5 kB/s eta 0:00:01     ------------------------ ----------- 532.5/772.0 kB 835.6 kB/s eta 0:00:01     --------------------------- -------- 593.9/772.0 kB 848.4 kB/s eta 0:00:01     ----------------------------- ------ 624.6/772.0 kB 835.9 kB/s eta 0:00:01     ------------------------------ ----- 655.4/772.0 kB 825.0 kB/s eta 0:00:01     ------------------------------- ---- 675.8/772.0 kB 803.9 kB/s eta 0:00:01     --------------------------------- -- 727.0/772.0 kB 849.3 kB/s eta 0:00:01     -----------------------------------  768.0/772.0 kB 821.9 kB/s eta 0:00:01     ------------------------------------ 772.0/772.0 kB 826.2 kB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: joblib>=1.0.0 in c:\users\deic\anaconda\lib\site-packages (from scikit-surprise) (1.2.0)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\deic\anaconda\lib\site-packages (from scikit-surprise) (1.26.0)
+Requirement already satisfied: scipy>=1.3.2 in c:\users\deic\anaconda\lib\site-packages (from scikit-surprise) (1.11.3)
+Building wheels for collected packages: scikit-surprise
+  Building wheel for scikit-surprise (setup.py): started
+  Building wheel for scikit-surprise (setup.py): finished with status 'done'
+  Created wheel for scikit-surprise: filename=scikit_surprise-1.1.3-cp310-cp310-win_amd64.whl size=1075675 sha256=f97d634575b9d42b9b9f0b96992998c2eedd4f5ed8263dcf38101b4968e74f27
+  Stored in directory: c:\users\deic\appdata\local\pip\cache\wheels\a5\ca\a8\4e28def53797fdc4363ca4af740db15a9c2f1595ebc51fb445
+Successfully built scikit-surprise
+Installing collected packages: scikit-surprise
+Successfully installed scikit-surprise-1.1.3
